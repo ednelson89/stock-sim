@@ -1,6 +1,6 @@
 # final
 
-> Final Project
+> Final Project for Max Scharzmueller's VueJS course. This program simulates a stock purchasing experience.
 
 ## Build Setup
 
