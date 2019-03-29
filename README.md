@@ -2,6 +2,8 @@
 
 > Final Project for Max Scharzmueller's VueJS course. This program simulates a stock purchasing experience.
 
+See the demo at http://stock-sim-deploy.s3-website-us-east-1.amazonaws.com/
+
 ## Build Setup
 
 ``` bash
